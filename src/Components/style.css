@@ -1,0 +1,11 @@
+.style{
+    background-color: aliceblue;
+    color:black;
+    text-align: center;
+    margin:0 auto;
+    font-style: italic;
+    width: 40%;
+padding:20px;
+margin-top:20px;
+border-radius: 2px;
+}
